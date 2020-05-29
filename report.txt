@@ -1,0 +1,64 @@
+Generalisation
+Payment system: Offline(case) or online
+Vehicle: 2-wheeler, 4-wheeler or more 
+Parking spot: Electric charge, small size, medium size, large size
+UserInfo: login service, signup service
+
+Abstraction:
+Vehicle with properties such that vehicle number, structural size, brand_name, etc.
+
+Encapsulation: data binding
+Token/ticket
+Bill
+Brand_data
+
+Polymorphism:
+
+
+Algorithmic decomposition: 
+5 choices distribution: vehicle enter, vehicle exit, database, system exit 
+4 choices under open database choices: bill, brand,etc.
+Data fetching from file+ maupulating + adding in file
+
+static typing is used in program:
+vehicle number is string
+time is under ctime library
+price is double
+
+
+Concurrency:
+while exiting of vehicle , different objects like vehicle, token, perking spot are running at a same time
+
+Persistence:
+saving data:
+using file handling
+
+Access control:
+User vehicle information is secured using private and protected keyword
+Admin class contains all members as private members
+Bill class 's data members are private
+
+
+Constructor:
+defined default constructor of parking spot when it is empty
+
+Inheritence:
+Multiple inheritance:
+Vehicle class being inherited in Bill class
+Vehicle: 2-wheeler, 4-wheeler or more 
+
+Single inheritance:
+
+datastructure used:
+map : map<vehicle,entry_time>   map<brand_name,count> 
+
+Algorithm:
+Huffman coding for security
+Priority queue and heap sort
+
+c++ Interface:
+using window and conio library
+
+UML:
+used
+class, activity, use case
