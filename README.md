@@ -18,3 +18,4 @@ Vehicle Parked.
 Special features-  1). Password security through Huffman Coding
                                 2). Dealing with brand data.
                                 3). All possible conditions were considered like wrong vehicle number detected, wrong choice selected, Less                                     paid or more paid, etc. 
+![out1](https://user-images.githubusercontent.com/46133803/85057424-59fee100-b1be-11ea-9359-39cd4e00ce22.png)
