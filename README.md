@@ -1,7 +1,6 @@
 # Vehicle Parking management system
 >Automated system controlled artificial system and sensors for efficient vehicle parking operations
 
----
 
 ### Table of Contents
 
@@ -91,11 +90,3 @@ The key processes performed by system are listed below:
     # run on windows cmd
     $ a 
 ```
-
----
-
-## Author Info
-
-- Website - [Jay Prakash](home.iitj.ac.in/~prakash.3)
-
----
